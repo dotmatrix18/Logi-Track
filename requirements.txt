@@ -1,0 +1,17 @@
+# LogiTrack: tested with Python 3.13 (pandas 2.2 and 3.x both verified)
+pandas>=2.1
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.18
+SQLAlchemy>=2.0
+streamlit>=1.50
+# notebooks
+jupyter
+nbformat>=5.9
+nbconvert>=7.0
+ipykernel>=6.0
+# optional: run tests with pytest (python tests/test_dashboard_smoke.py also works)
+pytest>=7.0
+# optional: MySQL instead of SQLite -> pip install pymysql and set LOGITRACK_DB_URL
