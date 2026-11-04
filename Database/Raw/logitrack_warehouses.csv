@@ -1,0 +1,16 @@
+warehouse_id,name,city,state,capacity
+1,Warehouse_1,Mumbai,Maharashtra,18795
+2,Warehouse_2,Delhi,Delhi,3860
+3,Warehouse_3,Bangalore,Karnataka,8390
+4,Warehouse_4,Hyderabad,Telangana,14964
+5,Warehouse_5,Chennai,Tamil Nadu,14284
+6,Warehouse_6,Kolkata,West Bengal,9265
+7,Warehouse_7,Pune,Maharashtra,19850
+8,Warehouse_8,Ahmedabad,Gujarat,7426
+9,Warehouse_9,Jaipur,Rajasthan,17423
+10,Warehouse_10,Lucknow,Uttar Pradesh,14363
+11,Warehouse_11,Chandigarh,Punjab,19023
+12,Warehouse_12,Kochi,Kerala,11322
+13,Warehouse_13,Indore,Madhya Pradesh,4685
+14,Warehouse_14,Nagpur,Maharashtra,3769
+15,Warehouse_15,Patna,Bihar,5433
